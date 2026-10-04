@@ -1,0 +1,25 @@
+Aisha Khan
+Data Analyst | Lahore, Pakistan
+
+SUMMARY
+Analytical data professional with 3 years of experience turning raw data into business insight.
+
+SKILLS
+Python, SQL, Pandas, NumPy, Scikit-learn, Power BI, Machine Learning, Statistics, Matplotlib, Git
+
+EXPERIENCE
+Data Analyst, RetailCo (2022 - Present)
+- Built Power BI dashboards used by 40+ managers, reducing weekly reporting time by 35%.
+- Wrote SQL queries on PostgreSQL to analyze 2 million customer records.
+- Developed a churn prediction model with Scikit-learn that reached 82% accuracy.
+- Automated data cleaning with Pandas, saving 10 hours per week.
+
+PROJECTS
+- Sales Forecasting: time series analysis with Python and statistical hypothesis testing.
+- Customer Segmentation: clustering with Scikit-learn and Matplotlib visualizations.
+
+EDUCATION
+BSc Computer Science, University of the Punjab
+
+CERTIFICATIONS
+Google Data Analytics Certificate

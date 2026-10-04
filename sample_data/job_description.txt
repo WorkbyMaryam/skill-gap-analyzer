@@ -1,0 +1,18 @@
+Data Analyst
+
+We are looking for a Data Analyst to join our growing analytics team.
+
+Requirements:
+- Strong proficiency in Python and SQL
+- Hands-on experience with Tableau and Power BI dashboards
+- Solid understanding of statistics and hypothesis testing
+- Advanced Excel skills (pivot tables, VLOOKUP)
+- Experience with AWS (S3, Redshift) for data storage
+
+Nice to have:
+- Familiarity with machine learning
+- Knowledge of Docker
+
+Responsibilities:
+- Build reports and dashboards for stakeholders
+- Communicate insights clearly to non-technical teams
