@@ -49,5 +49,3 @@ python -m unittest discover -s tests      # or: pytest
 ## Limitations
 Matching is dictionary-based, so skills missing from the ontology are not detected. Scanned-image PDFs need OCR
 (paste the text instead). The score is a guide, not a hiring decision.
-
-# skill-gap-analyzer
